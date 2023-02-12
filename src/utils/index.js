@@ -1,0 +1,1 @@
+export {isEmail, isPassword} from './is';
